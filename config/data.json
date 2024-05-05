@@ -1,0 +1,1407 @@
+{
+	"theses": {
+		"0": {
+			"l": "Ich möchte in einem Unternehmen arbeiten, das sich auf Innovation und technologische Fortschritte konzentriert.",
+			"s": "Innovationsorientiert",
+			"x": "Ich möchte in einem Unternehmen arbeiten, das sich auf Innovation und technologische Fortschritte konzentriert."
+		},
+		"1": {
+			"l": "Ich möchte in einem Unternehmen arbeiten, das sich für Nachhaltigkeit und Umweltschutz einsetzt.",
+			"s": "Nachhaltigkeitsorientiert",
+			"x": "Ich möchte in einem Unternehmen arbeiten, das sich für Nachhaltigkeit und Umweltschutz einsetzt."
+		},
+		"2": {
+			"l": "Ich möchte in einem Unternehmen arbeiten, das sich auf hervorragenden Kundenservice konzentriert.",
+			"s": "Kundenorientiert",
+			"x": "Ich möchte in einem Unternehmen arbeiten, das sich auf hervorragenden Kundenservice konzentriert."
+		},
+		"3": {
+			"l": "Ich möchte in einem handwerklichen Beruf arbeiten, bei dem ich praktische Fähigkeiten erlernen kann.",
+			"s": "Handwerklich orientiert",
+			"x": "Ich möchte in einem handwerklichen Beruf arbeiten, bei dem ich praktische Fähigkeiten erlernen kann."
+		},
+		"4": {
+			"l": "Ich möchte in einem Gesundheitsunternehmen arbeiten, das eine umfassende Versorgung und Ausbildung bietet.",
+			"s": "Gesundheitsorientiert",
+			"x": "Ich möchte in einem Gesundheitsunternehmen arbeiten, das eine umfassende Versorgung und Ausbildung bietet."
+		},
+		"5": {
+			"l": "Ich möchte in einem sozialen Beruf arbeiten, bei dem ich Menschen helfen und unterstützen kann.",
+			"s": "Sozial orientiert",
+			"x": "Ich möchte in einem sozialen Beruf arbeiten, bei dem ich Menschen helfen und unterstützen kann."
+		},
+		"6": {
+			"l": "Ich möchte in einem technologieorientierten Unternehmen arbeiten, das führend in seinem Bereich ist.",
+			"s": "Technologieorientiert",
+			"x": "Ich möchte in einem technologieorientierten Unternehmen arbeiten, das führend in seinem Bereich ist."
+		},
+		"7": {
+			"l": "Ich möchte in einem familiengeführten Unternehmen arbeiten, das Wert auf Tradition und langfristige Beziehungen legt.",
+			"s": "Familienunternehmen",
+			"x": "Ich möchte in einem familiengeführten Unternehmen arbeiten, das Wert auf Tradition und langfristige Beziehungen legt."
+		},
+		"8": {
+			"l": "Ich möchte in einem Unternehmen arbeiten, das international tätig ist und mir die Möglichkeit bietet, mit Menschen aus verschiedenen Kulturen zusammenzuarbeiten.",
+			"s": "Internationale Ausrichtung",
+			"x": "Ich möchte in einem Unternehmen arbeiten, das international tätig ist und mir die Möglichkeit bietet, mit Menschen aus verschiedenen Kulturen zusammenzuarbeiten."
+		},
+		"9": {
+			"l": "Ich möchte in einem Unternehmen arbeiten, das Wert auf Ausbildung und persönliche Entwicklung legt.",
+			"s": "Ausbildungsorientiert",
+			"x": "Ich möchte in einem Unternehmen arbeiten, das Wert auf Ausbildung und persönliche Entwicklung legt."
+		},
+		"10": {
+			"l": "Ich möchte bei einem Großunternehmen arbeiten, dass klare Prozesse und Aufgaben definiert",
+			"s": "Großunternehmen",
+			"x": "Ich möchte bei einem großem Unternehmen arbeiten, dass klare Prozesse und Aufgaben definiert"
+		},
+		"11": {
+			"l": "Ich möchte bei einem kleinerem Unternehmen arbeiten, dass dynamisch und flache Hierarchien hat.",
+			"s": "Kleinunternehmen",
+			"x": "Ich möchte bei einem kleinerem Unternehmen arbeiten, dass dynamisch und flache Hierarchien hat."
+		},
+		"12": {
+			"l": "Ich möchte in einem kreativen Beruf arbeiten, bei dem ich mich kreativ entfalten kann.",
+			"s": "kreativ orientiert",
+			"x": "Ich möchte in einem kreativen Beruf arbeiten, bei dem ich mich kreativ entfalten kann."
+		}
+	},
+	"lists": {
+		"0": {
+			"name": "Alfred Kärcher SE & Co. KG",
+			"name_x": "Kärcher"
+		},
+		"1": {
+			"name": "ALUCA GmbH",
+			"name_x": "ALUCA"
+		},
+		"2": {
+			"name": "Autohaus Bruno Widmann GmbH & Co",
+			"name_x": "Autohaus Widmann"
+		},
+		"3": {
+			"name": "Autohaus Walter Mulfinger GmbH",
+			"name_x": "Autohaus Mulfinger"
+		},
+		"4": {
+			"name": "Diakoneo Diak Klinikum",
+			"name_x": "Diak"
+		},
+		"5": {
+			"name": "Diakoneo Haus am Wiesenblick",
+			"name_x": "Wiesenblick"
+		},
+		"6": {
+			"name": "Diakoneo KdöR - Soziale Unterstürzung",
+			"name_x": "Diakoneo KdöR"
+		},
+		"7": {
+			"name": "Diakoneo Sonnenhof",
+			"name_x": "Sonnenhof"
+		},
+		"8": {
+			"name": "",
+			"name_x": ""
+		},
+		"9": {
+			"name": "GIENGER & RENZ KG - Haustechnik",
+			"name_x": "GIENGER & RENZ"
+		},
+		"10": {
+			"name": "Klafs GmbH",
+			"name_x": "Klafs"
+		},
+		"11": {
+			"name": "Landratsamt Schwäbisch Hall",
+			"name_x": "Landratsamt"
+		},
+		"12": {
+			"name": "Löwenbrauerei Hall",
+			"name_x": "Löwenbrauerei "
+		},
+		"13": {
+			"name": "marbet Marion & Bettina Würth GmbH & Co. KG",
+			"name_x": "marbet"
+		},
+		"14": {
+			"name": "Mustang GmbH",
+			"name_x": "Mustang"
+		},
+		"15": {
+			"name": "OPTIMA packaging group GmbH",
+			"name_x": "OPTIMA"
+		},
+		"16": {
+			"name": "Schmitt Logistik GmbH",
+			"name_x": "Schmitt"
+		},
+		"17": {
+			"name": "Schwäbisch Hall-Gruppe",
+			"name_x": "SHA"
+		},
+		"18": {
+			"name": "SIGNal Design GmbH",
+			"name_x": "SIGNal"
+		},
+		"19": {
+			"name": "STEGO Elektrotechnik GmbH",
+			"name_x": "STEGO"
+		},
+		"20": {
+			"name": "VR Bank Heilbronn Schwäbisch Hall eG",
+			"name_x": "VR Bank"
+		},
+		"21": {
+			"name": "Windmüller Technik GmbH",
+			"name_x": "Windmüller"
+		},
+		"22": {
+			"name": "ZIEHL industrie-elektronik GmbH + CO",
+			"name_x": "ZIEHL"
+		}
+	},
+	"answers": {
+		"0": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "d",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"1": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"3": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"4": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"5": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"6": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"7": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"8": {
+			"0": {
+				"selection": "d",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "d",
+				"statement": ""
+			},
+			"3": {
+				"selection": "d",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "d",
+				"statement": ""
+			},
+			"8": {
+				"selection": "d",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "d",
+				"statement": ""
+			},
+			"11": {
+				"selection": "d",
+				"statement": ""
+			},
+			"12": {
+				"selection": "d",
+				"statement": ""
+			}
+		},
+		"9": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"10": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"11": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"12": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"13": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"14": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"15": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"16": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"17": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"18": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"19": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"20": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"21": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "d",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "d",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"22": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "d",
+				"statement": ""
+			},
+			"6": {
+				"selection": "d",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			}
+		}
+	}
+}

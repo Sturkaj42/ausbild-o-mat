@@ -1,6 +1,6 @@
 class T {
   constructor() {
-    this.page_title = "Mahlowat";
+    this.page_title = "Ausbild-O-Mat - Nacht der Ausbildung";
     this.qa_modal_title = "Fragen &amp; Antworten";
     this.qa_modal_body = '<h4>Wer steht hinter dem Ausbild-O-Wat?</h4>\
     <p>Die Wirtschaftsjunioren Heilbronn-Franken.</p>\
@@ -32,7 +32,7 @@ class T {
 \
     <h4>Wer hat den Ausbild-O-Mat programmiert?</h4>\
     <p>Das steht\
-      <a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
+      <a href="https://github.com/hszemi/mahlowat">hier</a>.</p>\
 \
     <h4>Ich habe einen Programmierfehler gefunden!</h4>\
     <p>Oh nein! Wenn du den Fehler\

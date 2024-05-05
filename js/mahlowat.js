@@ -262,8 +262,8 @@ function loadThesis() {
 			$('#btn-toggle-thesis-more').fadeIn(200);
 		}
 	});
-	// $('#thesis-number').text(t.thesis_number(currentThesis + 1) + ": " + data.theses[thesis_id].s);
-	$('#thesis-number').text(data.theses[thesis_id].s);
+	$('#thesis-number').text(t.thesis_number(currentThesis + 1) + ": " + data.theses[thesis_id].s);
+	// $('#thesis-number').text(data.theses[thesis_id].s);
 	//			$('#thesis-text').text(data.theses[thesis_id].l);
 	$('#thesis-more').hide();
 	$('#thesis-more').text(data.theses[thesis_id].x);

@@ -85,11 +85,11 @@
 		},
 		"4": {
 			"name": "Diakoneo Diak Klinikum",
-			"name_x": "Diak"
+			"name_x": "Diak Klinikum"
 		},
 		"5": {
 			"name": "Diakoneo Haus am Wiesenblick",
-			"name_x": "Wiesenblick"
+			"name_x": "Diakoneo Haus Wiesenblick"
 		},
 		"6": {
 			"name": "Diakoneo KdöR - Soziale Unterstürzung",
@@ -97,11 +97,11 @@
 		},
 		"7": {
 			"name": "Diakoneo Sonnenhof",
-			"name_x": "Sonnenhof"
+			"name_x": "Diakoneo Sonnenhof"
 		},
 		"8": {
-			"name": "",
-			"name_x": ""
+			"name": "Stadtwerke Schwäbisch Hall",
+			"name_x": "Stadtwerke SHA"
 		},
 		"9": {
 			"name": "GIENGER & RENZ KG - Haustechnik",
@@ -113,11 +113,11 @@
 		},
 		"11": {
 			"name": "Landratsamt Schwäbisch Hall",
-			"name_x": "Landratsamt"
+			"name_x": "Landratsamt SHA"
 		},
 		"12": {
 			"name": "Löwenbrauerei Hall",
-			"name_x": "Löwenbrauerei "
+			"name_x": "Löwenbrauerei Hall"
 		},
 		"13": {
 			"name": "marbet Marion & Bettina Würth GmbH & Co. KG",
@@ -133,11 +133,11 @@
 		},
 		"16": {
 			"name": "Schmitt Logistik GmbH",
-			"name_x": "Schmitt"
+			"name_x": "Schmitt Logistik"
 		},
 		"17": {
 			"name": "Schwäbisch Hall-Gruppe",
-			"name_x": "SHA"
+			"name_x": "SHA-Gruppe"
 		},
 		"18": {
 			"name": "SIGNal Design GmbH",
@@ -145,7 +145,7 @@
 		},
 		"19": {
 			"name": "STEGO Elektrotechnik GmbH",
-			"name_x": "STEGO"
+			"name_x": "STEGO Elektrotechnik"
 		},
 		"20": {
 			"name": "VR Bank Heilbronn Schwäbisch Hall eG",
